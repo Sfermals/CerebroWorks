@@ -457,7 +457,7 @@
         <!-- paradise slider js -->
 
         <!--
-                <script src="http://maps.google.com/maps/api/js?key=AIzaSyD_tAQD36pKp9v4at5AnpGbvBUsLCOSJx8"></script>
+                <script src="http://maps.google.com/maps/api/js?key=**************fill_in_api_key*************************"></script>
                 <script src="assets/js/gmaps.min.js"></script>
         
                 <script>
